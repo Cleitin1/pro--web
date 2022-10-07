@@ -47,7 +47,7 @@ export default function Home() {
           <header className="w3-container w3-padding-32 w3-center w3-black" id="home">
             <h1 className="w3-jumbo"><span className="w3-hide-small" /> Hiago Martins.</h1>
             <p>Fotógrafo e Web Designer.</p>
-            <img src="IMG/img 1.jpg" alt="boy" className="w3-image" width={992} height={1108} />
+            <img src="/img 1.jpg" alt="boy" className="w3-image" width={992} height={1108} />
           </header>
           {/* About Section */}
           <div className="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
@@ -128,10 +128,10 @@ export default function Home() {
             </div>
             {/* Testimonials */}
             <h3 className="w3-padding-24 w3-text-light-grey">Minha reputação</h3>  
-            <img src="IMG/img8.jpg" alt="Avatar" className="w3-left w3-circle w3-margin-right" style={{width: '80px'}} />
+            <img src="/img8.jpg" alt="Avatar" className="w3-left w3-circle w3-margin-right" style={{width: '80px'}} />
             <p><span className="w3-large w3-margin-right">Felipe Locke.</span> CEO da Mighty Schools.</p>
             <p>Hiago nos salvou de um desastre na web.</p><br />
-            <img src="IMG/img9.jpg" alt="Avatar" className="w3-left w3-circle w3-margin-right" style={{width: '80px'}} />
+            <img src="/img9.jpg" alt="Avatar" className="w3-left w3-circle w3-margin-right" style={{width: '80px'}} />
             <p><span className="w3-large w3-margin-right">Ana Sarah.</span>CEO na empresa.</p>
             <p>Ninguém é melhor do que Hiago Martins.</p>
             {/* End About Section */}
@@ -143,12 +143,12 @@ export default function Home() {
             {/* Grid for photos */}
             <div className="w3-row-padding" style={{margin: '0 -16px'}}>
               <div className="w3-half">
-                <img src="IMG/img1.jpg" style={{width: '100%'}} />
-                <img src="IMG/img2.jpg" style={{width: '100%'}} />
+                <img src="/img1.jpg" style={{width: '100%'}} />
+                <img src="/img2.jpg" style={{width: '100%'}} />
               </div>
               <div className="w3-half">
-                <img src="IMG/img6.jpg" style={{width: '100%'}} />
-                <img src="IMG/img7.jpg" style={{width: '100%'}} />
+                <img src="/img6.jpg" style={{width: '100%'}} />
+                <img src="/img7.jpg" style={{width: '100%'}} />
               </div>
               {/* End photo grid */}
             </div>
