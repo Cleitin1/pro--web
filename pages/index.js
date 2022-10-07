@@ -127,7 +127,7 @@ export default function Home() {
               {/* End Grid/Pricing tables */}
             </div>
             {/* Testimonials */}
-            <h3 className="w3-padding-24 w3-dark-grey">Minha reputação</h3>  
+            <h3 className="w3-padding-24 w3-text-dark-grey">Minha reputação</h3>  
             <img src="/img8.jpg" alt="Avatar" className="w3-left w3-circle w3-margin-right" style={{width: '80px'}} />
             <p><span className="w3-large w3-margin-right">Felipe Locke.</span> CEO da Mighty Schools.</p>
             <p>Hiago nos salvou de um desastre na web.</p><br />
