@@ -55,7 +55,7 @@ export default function Home() {
             <hr style={{width: '200px'}} className="w3-opacity" />
             <p> Uma pessoa misteriosa e bem tranquila, gosto de fotografar a vida, natureza e as demais coisas relacionadas, gosto de coisas que me trazem uma boa energia, aprendendo muito com a vida e com meus erros. Trabalho com Fotografia desde meus 15 anos, profissional a 8 anos, trabalhando com os todos os módelos de fotografia. Sonho em viajar o mundo todo e fotografar cada continente e suas mais belas paisagens e culturas. Uma pessoa mente a berta e de bem com a vida. GOOD VIBES FOR YOU.
             </p>
-            <h3 className="w3-padding-16 w3-text-light-grey">Habilidades</h3>
+            <h3 className="w3-padding-16 w3-dark-grey">Habilidades</h3>
             <p className="w3-wide">Fotografia</p>
             <div className="w3-white">
               <div className="w3-dark-grey" style={{height: '28px', width: '97%'}} />
