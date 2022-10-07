@@ -127,7 +127,7 @@ export default function Home() {
               {/* End Grid/Pricing tables */}
             </div>
             {/* Testimonials */}
-            <h3 className="w3-padding-24 w3-text-light-grey">Minha reputação</h3>  
+            <h3 className="w3-padding-24 w3-dark-grey">Minha reputação</h3>  
             <img src="/img8.jpg" alt="Avatar" className="w3-left w3-circle w3-margin-right" style={{width: '80px'}} />
             <p><span className="w3-large w3-margin-right">Felipe Locke.</span> CEO da Mighty Schools.</p>
             <p>Hiago nos salvou de um desastre na web.</p><br />
@@ -138,7 +138,7 @@ export default function Home() {
           </div>
           {/* Portfolio Section */}
           <div className="w3-padding-64 w3-content" id="photos">
-            <h2 className="w3-text-light-grey">Minhas fotos</h2>
+            <h2 className="w3-dark-grey">Minhas fotos</h2>
             <hr style={{width: '200px'}} className="w3-opacity" />
             {/* Grid for photos */}
             <div className="w3-row-padding" style={{margin: '0 -16px'}}>
@@ -156,7 +156,7 @@ export default function Home() {
           </div>
           {/* Contact Section */}
           <div className="w3-padding-64 w3-content w3-text-grey" id="contact">
-            <h2 className="w3-text-light-grey">Contate-me</h2>
+            <h2 className="w3-dark-grey">Contate-me</h2>
             <hr style={{width: '200px'}} className="w3-opacity" />
             <div className="w3-section">
               <p><i className="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right" /> Itu/SP</p>
