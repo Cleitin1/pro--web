@@ -51,7 +51,7 @@ export default function Home() {
           </header>
           {/* About Section */}
           <div className="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
-            <h2 className="w3-text-light-grey">Um pouco sobre mim</h2>
+            <h2 className="w3-text-light-black">Um pouco sobre mim</h2>
             <hr style={{width: '200px'}} className="w3-opacity" />
             <p> Uma pessoa misteriosa e bem tranquila, gosto de fotografar a vida, natureza e as demais coisas relacionadas, gosto de coisas que me trazem uma boa energia, aprendendo muito com a vida e com meus erros. Trabalho com Fotografia desde meus 15 anos, profissional a 8 anos, trabalhando com os todos os módelos de fotografia. Sonho em viajar o mundo todo e fotografar cada continente e suas mais belas paisagens e culturas. Uma pessoa mente a berta e de bem com a vida. GOOD VIBES FOR YOU.
             </p>
